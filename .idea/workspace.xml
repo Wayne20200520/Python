@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35bfdbf2-f36b-4f35-857d-4debcd4a70eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:Wayne20200520/PythonProject.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c2htX3tuZxO9mBRhMshkOh8pUh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\project\python\power\collect\parse_batinfo_update" />
+      <recent name="D:\Python\project\python\power" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.power_log_collect _new">
+    <configuration name="power_log_collect _new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/parse_batinfo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parse_batinfo/power_log_collect _new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wifi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/tool/暴力破解wifi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/tool/暴力破解wifi/wifi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.power_log_collect _new" />
+        <item itemvalue="Python.wifi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35bfdbf2-f36b-4f35-857d-4debcd4a70eb" name="Default Changelist" comment="" />
+      <created>1589732810661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589732810661</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="126" key="#Web_Browsers" timestamp="1589733022617">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="437" y="126" key="#Web_Browsers/0.0.1280.680@0.0.1280.680" timestamp="1589733022617" />
+    <state x="435" y="162" key="FileChooserDialogImpl" timestamp="1590302333726">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="435" y="162" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590302333726" />
+    <state width="1237" height="242" key="GridCell.Tab.0.bottom" timestamp="1589935238775">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="242" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589935238775" />
+    <state width="1237" height="242" key="GridCell.Tab.0.center" timestamp="1589935238774">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="242" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589935238774" />
+    <state width="1237" height="242" key="GridCell.Tab.0.left" timestamp="1589935238774">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="242" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589935238774" />
+    <state width="1237" height="242" key="GridCell.Tab.0.right" timestamp="1589935238774">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="242" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589935238774" />
+    <state x="57" y="0" key="SettingsEditor" timestamp="1589848537866">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="57" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589848537866" />
+  </component>
+</project>
